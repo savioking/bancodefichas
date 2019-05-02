@@ -1,0 +1,76 @@
+<ficha>
+<nome>Mippo</nome>
+<tipos>
+	<raça>Halfling</raça>
+	<classe>Bardo 1</classe>
+	<tendência>Caótico Neutro</tendência>
+	<tamanho>Pequeno</tamanho>
+  <deslocamento>6m</deslocamento>
+</tipos>
+<pv>14</pv>
+<ca>15</ca>
+<sentidos>Nenhum</sentidos>
+<resistências>
+	<fortitude>4</fortitude>
+	<reflexos>8</reflexos>
+	<vontade>4</vontade>
+</resistências>
+<habilidades>
+	<for>8</for>
+	<des>18</des>
+	<con>14</con>
+	<int>14</int>
+	<sab>10</sab>
+	<car>18</car>
+</habilidades>
+<pericias>
+  <pericia>Atuação</pericia>
+  <pericia>Diplomacia</pericia>
+  <pericia>Enganação</pericia>
+  <pericia>Furtividade</pericia>
+  <pericia>Identificar Magia</pericia>
+  <pericia>Iniciativa</pericia>
+  <pericia>Ladinagem</pericia>
+  <pericia>Obter Informação</pericia>
+</pericias>
+<ataques>
+	<cc>Adaga +0 (dano 1d4-1, 19-20/x2)</cc>
+	<ad>Adaga +6 (dano 1d4-1, 19-20/x2)</ad>
+</ataques>
+<talentos>
+	<talento>Reflexos Rápidos</talento>
+	<talento>Vontade de Ferro</talento>
+	<talento>Usar Escudos</talento>
+	<talento>Usar Armas (simples e marciais)</talento>
+	<talento>Usar Armaduras (leves)</talento>
+	<talento>Artista</talento>
+</talentos>
+<equipamento>
+	<item>Três adagas</item>
+	<item>Algibeira</item>
+	<item>Mochila</item>
+  <item>Odre</item>
+  <item>Pederneira</item>
+  <item>Corselete de couro</item>
+  <item>Alaúde</item>
+  <item>Ração de viagem (3 dias)</item>
+  <item>20 TO</item>
+  <item>80 TP</item>
+  <item>50 TC</item>
+</equipamento>
+<magia>
+  <pm>5</pm>
+  <N0>Consertar, Globos de luz, Mensagem, Prestidigitação.</N0>
+  <N1>Área escorregadia, Compreender idiomas, Curar ferimentos leves, Disfarce ilusório, Enfeitiçar pessoa.</N1>
+</magia>
+<especiais>
+	<especial>
+		<nome>Conhecimento de Bardo</nome>
+		<descrição></descrição>
+	</especial>
+  <especial>
+		<nome>Música de Bardo</nome>
+		<descrição>Inspirar Coragem, Melodia revigorante. 5 vezes por dia</descrição>
+	</especial>
+</especiais>
+</ficha>

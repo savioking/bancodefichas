@@ -1,0 +1,48 @@
+<ficha>
+<nome>Aranha Mecânica</nome>
+<tipos>
+	<raça>Máquina</raça>
+	<classe>Construto 5</classe>
+	<tendência>Neutro</tendência>
+	<tamanho>Grande</tamanho>
+  <deslocamento>15m / Escalar 15m</deslocamento>
+</tipos>
+<pv>55</pv>
+<ca>21</ca>
+<sentidos>Visão térmica</sentidos>
+<resistências>
+	<fortitude>2</fortitude>
+	<reflexos>7</reflexos>
+	<vontade>3</vontade>
+</resistências>
+<habilidades>
+	<for>18</for>
+	<des>20</des>
+	<con>-</con>
+	<int>-</int>
+	<sab>13</sab>
+	<car>8</car>
+</habilidades>
+<pericias>
+  <pericia>Percepção</pericia>
+  <pericia>Iniciativa</pericia>
+</pericias>
+<ataques>
+	<cc>Mordida +6 (1d8+6) e 4 Garras +5 (1d6+6)</cc>
+	<ad>Raio Ocular +10 (3d6+2 Fogo)</ad>
+</ataques>
+<talentos>
+	<talento>Foco em Arma(Mordida)</talento>
+	<talento>Ataques Múltiplos</talento>
+	<talento>Habilidade especial aprimorada</talento>
+</talentos>
+<equipamento>
+	<item>Nenhum</item>
+</equipamento>
+<especiais>
+	<especial>
+		<nome>Raio Ocular</nome>
+		<descrição>Com uma ação completa, a Aranha Mecânica pode lançar um raio de fogo em até oito criaturas num raio de 12m causando 3d6+2 pontos de dano de fogo. Ela faz apenas um ataque de toque à distância para todos os raios. Após o uso, esta habilidade fica disponível após 1d4 rodadas.</descrição>
+	</especial>
+</especiais>
+</ficha>

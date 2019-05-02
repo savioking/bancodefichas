@@ -1,0 +1,64 @@
+<ficha>
+<nome>O Careca</nome>
+<tipos>
+	<raça>Humano</raça>
+	<classe>Lutador 5, Chapéu preto 1</classe>
+	<tendência>Caótico Neutro</tendência>
+	<tamanho>Grande</tamanho>
+	<deslocamento>9m</deslocamento>
+</tipos>
+<pv>81</pv>
+<ca>18</ca>
+<sentidos>nenhum</sentidos>
+<resistências>
+	<fortitude>11</fortitude>
+	<reflexos>5</reflexos>
+	<vontade>3</vontade>
+</resistências>
+<habilidades>
+	<for>19</for>
+	<des>10</des>
+	<con>22</con>
+	<int>8</int>
+	<sab>10</sab>
+	<car>10</car>
+</habilidades>
+<pericias>Iniciativa Percepção e Intimidação</pericias>
+<ataques>
+	<cc>Desarmado +9 (1d10+7) ou 2 Desarmados +7 (1d10+7)</cc>
+	<ad>Adaga +6 (1d4+7)</ad>
+</ataques>
+<talentos>
+	<talento>Grandão</talento>
+	<talento>Foco em Perícia(Intimidação)</talento>
+	<talento>Iniciativa Aprimorada</talento>
+	<talento>Casca Grossa</talento>
+	<talento>Fortitude Maior</talento>
+	<talento>Rigidez Raivosa</talento>
+	<talento>Vitalidade</talento>
+	<talento>Vitalidade</talento>
+</talentos>
+<equipamento>
+	<item>Roupas simples</item>
+	<item>Carimbo dos Bandidos da Lâmina Negra</item>
+	<item>Capuz dos Sedentos</item>
+</equipamento>
+<especiais>
+	<especial>
+		<nome>Trocação</nome>
+		<descrição>Depois de fazer um ataque, pode fazer um novo ataque contra o mesmo alvo. Sempre que usar a habilidade, deve fazer um teste de fortitude (CD 15+5 para cada vez usada) ou fica fatigado e não pode mais usar a habilidade.</descrição>
+	</especial>
+	<especial>
+		<nome>Evasão</nome>
+		<descrição></descrição>
+	</especial>
+	<especial>
+		<nome>Ataque Furtivo</nome>
+		<descrição>1d6</descrição>
+	</especial>
+	<especial>
+		<nome>Dance!</nome>
+		<descrição>Como uma ação padrão, faz um ataque que não causa dano. Se acertar, pode fazer um teste de intimidação com +4 de bônus. Se intimidar, o alvo fica abalado (-2 em todos os testes por 1 minuto).</descrição>
+	</especial>
+</especiais>
+</ficha>
