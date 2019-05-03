@@ -10,14 +10,20 @@ body {
 }
 
 header {
-  padding: 1.5%;
+  padding: 0.5%;
+  padding-left: 100px;
   background: #02A4D3;
+  font-family: 'Aref Ruqaa', serif;
+  font-size: 30px;
+}
 
+a {
+  text-decoration: none;
+  color: black;
 }
 
 .hidden-link {
   color: white;
-  text-decoration: none;
 }
 
 /* Pattern for all the sheet text */
@@ -35,7 +41,7 @@ header {
   font-family: 'Aladin', cursive;
   font-size: 24px;
   letter-spacing: 1px;
-
+  cursor: default;
 }
 
 /* Whenever I want to justify something */
